@@ -41,3 +41,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![VISUALIZER](/malawi-districts-graph-visualization/public/Visualizer.png)
 
 ![NODE POSITIONS](/malawi-districts-graph-visualization/public/Nodes.png)
+
+![NODE POSITIONS](/malawi-districts-graph-visualization/public/Optimized.png)
