@@ -36,3 +36,8 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+![VISUALIZER](image.png)
+
+![NODE POSITIONS](image-1.png)
