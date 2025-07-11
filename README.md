@@ -38,6 +38,6 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-![VISUALIZER](Visualizer.png)
+![VISUALIZER](/malawi-districts-graph-visualization/public/Visualizer.png)
 
-![NODE POSITIONS](Nodes.png)
+![NODE POSITIONS](/malawi-districts-graph-visualization/public/Nodes.png)
