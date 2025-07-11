@@ -1,7 +1,7 @@
 'use client';
 import React, { useState, useEffect, useRef } from 'react';
 
-// layout algorithm
+// Custom layout algorithm hook
 const useForceDirectedLayout = (nodes, edges, config) => {
   const [positions, setPositions] = useState(nodes);
   const [isRunning, setIsRunning] = useState(false);

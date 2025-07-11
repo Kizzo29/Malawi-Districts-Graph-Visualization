@@ -5,6 +5,7 @@ import useForceDirectedLayout from '../hooks/layoutAlgorithm';
 import GraphVisualization from './graphVisualization';
 import GraphStats from './graphStatistics';
 
+//Main component
 const MalawiGraphVisualization = () => {
     // Initial node positions for Malawi districts
   const initialNodes = [
